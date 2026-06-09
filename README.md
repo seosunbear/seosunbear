@@ -1,14 +1,8 @@
-<h1 align="center">👋 Welcome to Rumel's GitHub</h1>
+<h1 align="center">Welcome to sunbear GitHub</h1>
 
 <p align="center">
-  Creating ideas through code and media.
-</p>
-
----
-
-## 🎨 Media
-
-<p align="center">
+  <p>media</p>
+  
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,pr,blender,unreal" />
   </a>
